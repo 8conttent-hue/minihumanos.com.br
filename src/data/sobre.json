@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MINIHUMANOS"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Desenvolvido com base na metodologia do Terapeuta Ocupacional Régis Nepomuceno, o Minha Rotina Especial foi criado para oferecer suporte a crianças com deficiência, autismo e outros déficits. Nosso aplicativo visa tornar a rotina mais clara e organizada, ajudando crianças a se tornarem mais confiantes e autônomas."
+  },
+  "content": "O Minha Rotina Especial é mais do que um aplicativo; é uma ferramenta de transformação que auxilia na rotina de crianças com necessidades especiais. Nossa missão é promover desenvolvimento e autonomia, ajudando cada criança a explorar seu potencial único em um ambiente seguro e acolhedor.",
+  "mission": "Proporcionar ferramentas que ajudem crianças com desafios a desenvolverem sua independência e habilidades diárias.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "1.200+",
+      "label": "Artigos"
+    },
+    {
+      "value": "300k+",
+      "label": "Alunos"
+    },
+    {
+      "value": "25",
+      "label": "Professores"
+    }
+  ],
+  "team": []
+}

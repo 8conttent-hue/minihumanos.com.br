@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "MINIHUMANOS — Transforme a Rotina de Seu Filho",
+    "description": "O aplicativo Minha Rotina Especial ajuda crianças com desafios diversos a conquistarem autonomia e organização no dia a dia."
+  },
+  "hero": {
+    "title": "Transforme a Rotina de Seu Filho",
+    "subtitle": "O aplicativo Minha Rotina Especial ajuda crianças com desafios diversos a conquistarem autonomia e organização no dia a dia.",
+    "btnText": "Experimente Grátis",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Recursos do Minha Rotina Especial",
+    "items": [
+      {
+        "icon": "🗓️",
+        "title": "Rotinas Personalizadas",
+        "desc": "Crie rotinas diárias adaptadas às necessidades únicas da criança, promovendo clareza e estrutura."
+      },
+      {
+        "icon": "📈",
+        "title": "Acompanhamento Evolutivo",
+        "desc": "Compartilhe informações com terapeutas para um acompanhamento mais eficaz do desenvolvimento do seu filho."
+      },
+      {
+        "icon": "🧠",
+        "title": "Estimulação Cognitiva",
+        "desc": "Atividades planejadas que ajudam a promover o aprendizado e a independência, tornando cada dia uma nova oportunidade."
+      },
+      {
+        "icon": "👨‍👩‍👧",
+        "title": "Integração Familiar",
+        "desc": "Facilite a comunicação e o envolvimento de toda a família nas atividades diárias e no desenvolvimento da criança."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Minha Rotina Especial",
+    "desc": "Desenvolvido com base na metodologia do Terapeuta Ocupacional Régis Nepomuceno, o Minha Rotina Especial foi criado para oferecer suporte a crianças com deficiência, autismo e outros déficits. Nosso aplicativo visa tornar a rotina mais clara e organizada, ajudando crianças a se tornarem mais confiantes e autônomas.",
+    "stats": [
+      {
+        "value": "90%",
+        "label": "Satisfação dos Usuários"
+      },
+      {
+        "value": "1.000+",
+        "label": "Crianças Beneficiadas"
+      },
+      {
+        "value": "50+",
+        "label": "Atividades Exclusivas"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
